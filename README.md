@@ -1,1 +1,4 @@
-# YIF399_Adatb2
+# Adatbázisrendszerek II gyakorlathoz készített git repository
+
+Tartalma:
+1. adatbázis kezelés JDBC-vel
